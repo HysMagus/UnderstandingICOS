@@ -1,0 +1,12 @@
+[Chapter 1]
+== What is an ICO?
+A ICO is a Initial Coin Offering, in theory it is the first price that a coin is offered in order to raise funds. As you read this book you will come to learn that this is not the case. 
+
+== Who makes an ICO?
+While ICOs are a means to raise funds, literally anyone can make an ICO through the ease of availability of the underlying infrastructure that is often used upon which coins are made. Popularly as of 9/25/2017 ICOs have begun to be used by companies with either an idea for an asset, or a developed asset to bring to market. Often advertising a solution based upon decentralization.
+
+== Who buys an ICO?
+The answer largely considered "correct" is investors with a participating currency within a country where it is legal to do so. However due to the decentralized nature of the underlying infrastructure it is nigh impossible to prevent someone from particpating without complete censorship.
+
+== What is this Underlying Infrastructure?
+An Underlying Infrastructure is a decentralized solution that allows for token sales. As of 9/25/2017 the structures often used are Ethereum and Waves. Neo has begun offering tokens however it's functionality and adaption has yet to be seen.
