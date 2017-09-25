@@ -1,0 +1,8 @@
+[appendix]
+
+== Features of An ICO
+* Often Automated Through Smart Contracts
+* Can be implemented ontop of decentralized structures such as Ethereum and Waves. 
+* Multiple Smart Contracts Can Be Implemented
+* Depending on the system, API integration can be streamlined
+* Room for innovation is limitless
