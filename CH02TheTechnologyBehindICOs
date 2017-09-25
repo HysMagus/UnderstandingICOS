@@ -1,0 +1,13 @@
+[Chapter 2]
+== The Technology Behind ICOs
+There are multiple types of ICOs when speaking in regards to the process behind the gathering of funds.
+===Ethereum Token
+By far the most popular at the writing of this document, Ethereum tokens are created through the use of the Ethereum functionality of smart contracts in the solidity language. Smart Contracts are as described on BlockGeeks.com "Smart contracts help you exchange money, property, shares, or anything of value in a transparent, conflict-free way while avoiding the services of a middleman."
+This is done through the process of defining the rules of the token (i.e. allow for the sending of an asset, deletion of an asset, who can can hold a token, and etc.). In the code folder there is a smart contract example labelled CH02-ExampleCode[CCT Token]. 
+Security can be an issue in this token in speciality due to the nature of it's creation process.
+
+== Waves Tokens
+Waves Tokens are tokens created using the currency and decentralized multicurrency solution WAVES. While more secure due to the tested and less flexible system, it is severly limited in the process of adding further functionality due to it's more locked down nature.
+
+== NEO Token
+NEO Token ICOs are fairly new at the point of writing this so not much is known. Tokens created using NEO can be written in any language (citation: http://web.archive.org/web/20170925182859/http://docs.neo.org/en-us/sc/introduction.html[NEO Smart Contract Indroduction]
